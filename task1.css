@@ -1,0 +1,52 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Manrope', sans-serif;;
+}
+.main-doc{
+    display: flex;
+}
+header{
+    height: 100%;
+    width:300px;   
+}
+header li{
+    color:black;
+    border-bottom: 1px solid grey;
+}
+header ul{
+    border-right: 2px solid grey;
+}
+header li a{
+    color:black;
+    display: block;
+    text-decoration: none;
+    padding: 12px;
+}
+#intro{
+    margin: 5px 10px;
+   
+}
+#intro h1{
+    font-size: 32px;
+}
+#intro ul{
+    list-style-type: disc;
+    margin-left: 80px;
+}
+#what_you_should{
+    margin: 5px 10px;
+}
+#what_you_should ul{
+    margin-left: 80px;
+
+}
+#Javascript_java{
+
+}
+#data_types ul{
+    margin-left: 50px;
+}
+#data_types .inner{
+margin-left: 100px;
+}
